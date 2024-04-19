@@ -12,7 +12,7 @@ in order to make whole script a bit more readable.
 In order to change:
 Website url - update SCRAPPING_URL in .env
 Spreadsheet - update SPREADSHEET_URL in .env (also provide access to it or share it for everyone)
-Credentials - add your credentials to root folder and update path to it CRED_PATH (.env)
+Credentials - add your credentials to root folder and name it creds.json or update path to it CRED_PATH (.env)
 
 
 # How to start?
